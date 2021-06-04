@@ -1,0 +1,112 @@
+body {
+    background-image: url("https://d2rdhxfof4qmbb.cloudfront.net/wp-content/uploads/20190121172908/Capilano-Suspension-Bridge.jpg");
+    background-size: cover;
+     /* background-attachment: fixed; */
+    background-repeat: no-repeat;
+    background-size: 100% 50%;
+
+}
+header {
+    text-align: center;
+    font-style: italic;
+    font-size: 35px;
+    letter-spacing: -1px;
+    word-spacing: -3px;
+    text-shadow: 5px 4px 1px black;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-weight: bold;
+    color: rgb(224, 217, 217);
+}
+button {
+    background-color: rgb(67, 78, 67);
+    text-decoration: none;
+    color: white;
+    font-size: 20px;
+    border-radius: 20px;
+    text-align: center;
+    display: block;
+    padding: 12px;
+    margin-top: 15px;
+    margin-bottom: 5px;
+    margin-right: auto;
+    margin-left: auto;
+    width: 15%;
+}
+.me {
+    text-align: center;
+    display: block;
+    padding: 8px;
+    margin-right: auto;
+    margin-left: auto; 
+    border-radius: 10%;
+}
+img {
+    display: block;
+    border-radius: 40%;
+    width: 40px;
+}
+.mahmoud {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 15%;
+    border-radius: 20%;
+    border: 7px solid rgb(120, 120, 50);
+}
+
+article {
+   display: block;
+   margin-left: auto;
+   margin-right: auto;
+   /* width: 20%; */
+   background-color: whitesmoke;
+}
+.intro {
+    background-color: white;
+    size: 150px;
+    display: inline-block;
+    text-align: center;
+    margin-left: auto;
+    margin-right: auto;
+}
+a {
+    color: white;
+    border-radius: 4px;
+    padding: 3px;
+    display: inline;
+    display: inline-block;
+    margin-left: auto;
+    margin-right: auto;
+    
+}
+.skill {
+    border: 3px solid rgba(67, 49, 78, 0.678);
+    background-color: rgb(138, 111, 71);
+    margin-top: 0;
+    margin-left: -8px;
+    margin-right: -8px;
+    padding-top: -5px;
+
+}
+
+article {
+    border: 3px solid rgb(54, 40, 40);
+    background-color: blanchedalmond;
+    margin-top: 31.75px;
+    margin-left: -8px;
+    margin-right: -8px;
+    padding: 10px;
+}
+b {
+    color: slateblue;
+}
+p {
+    color: darkslategrey;
+}
+h2 {
+    color:rgb(94, 27, 27);
+}
+hr.new {
+    border: 5px solid rgb(29, 35, 48);
+    border-radius: 5px;
+}
